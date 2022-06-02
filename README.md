@@ -1,1 +1,2 @@
 # VECM-python-time-series-analysis
+Error correction model (ECM)is important in time-series analysis to better understand long-run dynamics. ECM can be derived from auto-regressive distributed lag model as long as there is a cointegration relationship between variables. In that context, each equation in the vector auto regressive (VAR) model is an autoregressive distributed lag model; therefore, it can be considered that the vector error correction model (VECM) is a VAR model with cointegration constraints.
